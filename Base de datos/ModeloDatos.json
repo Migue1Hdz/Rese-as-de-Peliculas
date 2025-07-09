@@ -1,0 +1,17 @@
+{
+  "students": {
+    "studentId1": {
+      "name": "Juan Pérez",
+      "email": "juan@example.com",
+      "age": 22
+    }
+  },
+  "reviews": {
+    "reviewId1": {
+      "student_id": "studentId1",
+      "movie_title": "Inception",
+      "rating": 5,
+      "comment": "Muy buena película"
+    }
+  }
+}
